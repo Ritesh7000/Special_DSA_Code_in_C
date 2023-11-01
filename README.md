@@ -4,9 +4,14 @@ Version_1 = Give the Value is Statically
 Version_2 = Give the value dynamically.(MenuDriven Code)
 <br>eg.,<br>
 |Operations On Linked List|<br>
- 1.Insert First<br>
- 2.Insert Last<br>
- 3.Insert At Position<br>
+<list>
+<ol>
+ <li>first item</li>
+ <li>1.Insert First<li>
+ <li>2.Insert Last<li>
+ <li>3.Insert At Position<li>
+ </ol>
+ </list>
  4.Delete First<br>
  5.Delete Last<br>
  6.Delete At Postion<br>
@@ -20,6 +25,8 @@ Version_2 = Give the value dynamically.(MenuDriven Code)
 14.Count Nodes<br>
 15.Exit<br>
 Enter Your Choice:
+<
+ 
 <br>
 <br>
 

@@ -5,23 +5,23 @@ Version_2 = Give the value dynamically.(MenuDriven Code)
 <br>eg.,<br>
 |Operations On Linked List|<br>
 <list>
-<ul>
- <li>1.Insert First</li>
- <li>2.Insert Last</li>
- <li>3.Insert At Position</li>
- <li>4.Delete First</li>
- <li>5.Delete Last</li>
- <li>6.Delete At Postion</li>
- <li>7.Search First Occurence</li>
- <li>8.Search Last Occurence</li>
- <li>9.Search All Accurence</li>
-<li>10.Physical Reverce</li>
-<li>11.Reverse Display</li>
-<li>12.Concat List</li>
-<li>13.Concat At Position</li>
-<li>14.Count Nodes</li>
-<li>15.Exit</li>
- </ul>
+<ol>
+ <li>.Insert First</li>
+ <li>.Insert Last</li>
+ <li>.Insert At Position</li>
+ <li>.Delete First</li>
+ <li>.Delete Last</li>
+ <li>.Delete At Postion</li>
+ <li>.Search First Occurence</li>
+ <li>.Search Last Occurence</li>
+ <li>.Search All Accurence</li>
+<li>.Physical Reverce</li>
+<li>.Reverse Display</li>
+<li>.Concat List</li>
+<li>.Concat At Position</li>
+<li>.Count Nodes</li>
+<li>.Exit</li>
+ </ol>
  </list><br>
 Enter Your Choice:
  

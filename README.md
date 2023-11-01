@@ -5,7 +5,7 @@ Version_2 = Give the value dynamically.(MenuDriven Code)
 <br>eg.,<br>
 |Operations On Linked List|<br>
 <list>
-<ul style= "list-style-type:none">
+<ul>
  <li>1.Insert First</li>
  <li>2.Insert Last</li>
  <li>3.Insert At Position</li>
@@ -22,10 +22,8 @@ Version_2 = Give the value dynamically.(MenuDriven Code)
 <li>14.Count Nodes</li>
 <li>15.Exit</li>
  </ul>
- </list>
-
+ </list><br>
 Enter Your Choice:
-
  
 <br>
 <br>
@@ -33,6 +31,7 @@ Enter Your Choice:
 Version_3 = Give the value dynamically.(MenuDriven Code)
 <br>
 |Operations On Linked List|<br>
+<list>
 1.Insert Data<br>
               1.Insert First<br>
               2.Insert Last<br>
@@ -69,6 +68,8 @@ Version_3 = Give the value dynamically.(MenuDriven Code)
                             4.Exit<br>
               3.Back<br><br>
 6.Count Nodes<br><br>
-7.Exit<br><br>
+7.Exit
+<list>
+<br><br>
 Enter Your Choice =
 <br>

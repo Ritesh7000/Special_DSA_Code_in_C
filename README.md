@@ -42,7 +42,7 @@ Version_3 = Give the value dynamically.(MenuDriven Code)
              </ol>
               
 <li>Delete Data</li>
-             <ol>
+             <ol type=1>
                <li>Delete First</li>
                <li>Delete Last</li>
                <li>Delete At Postion</li>

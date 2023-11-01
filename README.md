@@ -6,10 +6,9 @@ Version_2 = Give the value dynamically.(MenuDriven Code)
 |Operations On Linked List|<br>
 <list>
 <ol>
- <li>first item</li>
- <li>1.Insert First<li>
- <li>2.Insert Last<li>
- <li>3.Insert At Position<li>
+ <li>1.Insert First</li>
+ <li>2.Insert Last</li>
+ <li>3.Insert At Position</li>
  </ol>
  </list>
  4.Delete First<br>

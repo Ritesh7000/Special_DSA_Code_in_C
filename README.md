@@ -5,7 +5,7 @@ Version_2 = Give the value dynamically.(MenuDriven Code)
 <br>eg.,<br>
 |Operations On Linked List|<br>
 <list>
-<ul>
+<ul style: "list-type:none">
  <li>1.Insert First</li>
  <li>2.Insert Last</li>
  <li>3.Insert At Position</li>

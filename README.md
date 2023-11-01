@@ -34,7 +34,7 @@ Version_3 = Give the value dynamically.(MenuDriven Code)
 <list>
 <ol>
 <li>Insert Data</li>
-             <ol>
+             <ol type=1>
               <li>Insert First</li>
               <li>Insert Last</li>
               <li>Insert at Position</li>

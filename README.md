@@ -1,67 +1,67 @@
 # Special_DSA_Code_in_C
 Version_1 = Give the Value is Statically
-<br>
+<br><br>
 Version_2 = Give the value dynamically.(MenuDriven Code)
-eg.,
-|Operations On Linked List|
- 1.Insert First
- 2.Insert Last
- 3.Insert At Position
- 4.Delete First
- 5.Delete Last
- 6.Delete At Postion
- 7.Search First Occurence
- 8.Search Last Occurence
- 9.Search All Accurence
-10.Physical Reverce
-11.Reverse Display
-12.Concat List
-13.Concat At Position
-14.Count Nodes
-15.Exit
+<br>eg.,<br>
+|Operations On Linked List|<br>
+ 1.Insert First<br>
+ 2.Insert Last<br>
+ 3.Insert At Position<br>
+ 4.Delete First<br>
+ 5.Delete Last<br>
+ 6.Delete At Postion<br>
+ 7.Search First Occurence<br>
+ 8.Search Last Occurence<br>
+ 9.Search All Accurence<br>
+10.Physical Reverce<br>
+11.Reverse Display<br>
+12.Concat List<br>
+13.Concat At Position<br>
+14.Count Nodes<br>
+15.Exit<br>
 Enter Your Choice:
 <br>
 <br>
 
 Version_3 = Give the value dynamically.(MenuDriven Code)
+<br>
+|Operations On Linked List|<br>
+1.Insert Data<br>
+              1.Insert First<br>
+              2.Insert Last<br>
+              3.Insert at Position<br>
+              4.Back<br><br>
 
-|Operations On Linked List|
-1.Insert Data
-              1.Insert First
-              2.Insert Last
-              3.Insert at Position
-              4.Back
-
-2.Delete Data
-              1.Delete First
-              2.Delete Last
-              3.Delete At Position
-              4.Back
+2.Delete Data<br>
+              1.Delete First<br>
+              2.Delete Last<br>
+              3.Delete At Position<br>
+              4.Back<br><br>
     
-3.Search Data
-              1.Search First Occurence
-              2.Search Last Occurence
-              3.Search All Occurence
-              4.Back
+3.Search Data<br>
+              1.Search First Occurence<br>
+              2.Search Last Occurence<br>
+              3.Search All Occurence<br>
+              4.Back<br><br>
 
-4.Reverse
-              1.Physical Reverse
-              2.Reverse Display
-              3.Back
+4.Reverse<br>
+              1.Physical Reverse<br>
+              2.Reverse Display<br>
+              3.Back<br><br>
 
-5.Concat Linked List
-              1.Concat List
-                            1.Insert First
-                            2.Insert Last
-                            3.Insert at Position
-                            4.Exit
-              2.Concat At Position
-                            1.Insert First
-                            2.Insert Last
-                            3.Insert at Position
-                            4.Exit
-              3.Back
-6.Count Nodes
-7.Exit
+5.Concat Linked List<br>
+              1.Concat List<br>
+                            1.Insert First<br>
+                            2.Insert Last<br>
+                            3.Insert at Position<br>
+                            4.Exit<br>
+              2.Concat At Position<br>
+                            1.Insert First<br>
+                            2.Insert Last<br>
+                            3.Insert at Position<br>
+                            4.Exit<br>
+              3.Back<br><br>
+6.Count Nodes<br><br>
+7.Exit<br><br>
 Enter Your Choice =
 <br>

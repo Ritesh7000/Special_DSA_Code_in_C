@@ -50,33 +50,40 @@ Version_3 = Give the value dynamically.(MenuDriven Code)
              </ol>
              
               
-3.Search Data<br>
-              1.Search First Occurence<br>
-              2.Search Last Occurence<br>
-              3.Search All Occurence<br>
-              4.Back<br><br>
-
-4.Reverse<br>
-              1.Physical Reverse<br>
-              2.Reverse Display<br>
-              3.Back<br><br>
-
-5.Concat Linked List<br>
-              1.Concat List<br>
-                            1.Insert First<br>
-                            2.Insert Last<br>
-                            3.Insert at Position<br>
-                            4.Exit<br>
-              2.Concat At Position<br>
-                            1.Insert First<br>
-                            2.Insert Last<br>
-                            3.Insert at Position<br>
-                            4.Exit<br>
-              3.Back<br><br>
-6.Count Nodes<br><br>
-7.Exit
+<li>Search Data</li>
+            <ol type = 1>
+              <li>Search First Occurence</li>
+              <li>Search Last Occurence</li>
+              <li>Search All Occurence</li>
+              <li>Back</li>
+            </ol>
+<li>Reverse</li>
+            <ol type = 1>
+              <li>Physical Reverse</li>
+              <li>Reverse Display</li>
+              <li>Back</li>
+            </ol>
+<li>Concat Linked List<br>
+             <ol>
+              <li>Concat List</li>
+                      
+                        <ol type = 1>
+                            <li>Insert First</li>
+                            <li>Insert Last</li>
+                            <li>Insert at Position</li>
+                            <li>Exit</li>
+                            </ol>
+              <li>Concat At Position</li>
+                        <ol type = 1>
+                            <li>Insert First</li>
+                            <li>Insert Last</li>
+                            <li>Insert at Position</li>
+                            <li>Exit</li>
+                        </ol>
+              <li>Back</li>
+               </ol>
+<li>Count Nodes</li>
+<li>Exit</li>li
 </ol>
-<list>
-<br><br>
 Enter Your Choice =
 <br>

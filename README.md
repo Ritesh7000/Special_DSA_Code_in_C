@@ -1,4 +1,9 @@
 # Special_DSA_Code_in_C
+1.Singly LinkedList - 1.1_Version1, 1.2_Version2, 1.3_Version3<br>
+2.Doubly LinkedList - 2.1_Version1, 2.2_Version2, 2.3_Version3<br>
+3.Singly Circular LinkedList - 3.1_Version1, 3.2_Version2, 3.3_Version3<br>
+4.Singly Circular LinkedList - 4.1_Version1, 4.2_Version2, 4.3_Version3<br><br>
+
 Version_1 = Give the Value is Statically
 <br><br>
 Version_2 = Give the value dynamically.(MenuDriven Code)

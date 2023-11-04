@@ -69,22 +69,9 @@ Version_3 = Give the value dynamically.(MenuDriven Code)
 <li>Concat Linked List<br>
              <ol>
               <li>Concat List</li>
-                      
-                        <ol type = 1>
-                            <li>Insert First</li>
-                            <li>Insert Last</li>
-                            <li>Insert at Position</li>
-                            <li>Exit</li>
-                            </ol>
               <li>Concat At Position</li>
-                        <ol type = 1>
-                            <li>Insert First</li>
-                            <li>Insert Last</li>
-                            <li>Insert at Position</li>
-                            <li>Exit</li>
-                        </ol>
               <li>Back</li>
-               </ol>
+              </ol>
 <li>Count Nodes</li>
 <li>Exit</li>li
 </ol>

@@ -4,9 +4,9 @@
 3. Singly Circular LinkedList - 3.1_Version1, 3.2_Version2, 3.3_Version3<br><br>
 4. Singly Circular LinkedList - 4.1_Version1, 4.2_Version2, 4.3_Version3<br><br><br>
 
-Version_1 = Give the Value is Statically
+Version_1 = Given the value Statically
 <br><br>
-Version_2 = Give the value dynamically.(MenuDriven Code)
+Version_2 = Given the value Dynamically.(MenuDriven Code)
 <br>eg.,<br>
 |Operations On Linked List|<br>
 <list>
@@ -33,7 +33,7 @@ Enter Your Choice:
 <br>
 <br>
 
-Version_3 = Give the value dynamically.(MenuDriven Code)
+Version_3 = Given the value dynamically.(MenuDriven Code)
 <br>
 |Operations On Linked List|<br>
 <list>

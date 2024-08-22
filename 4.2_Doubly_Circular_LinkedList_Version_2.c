@@ -27,13 +27,13 @@ void Display(struct node *, struct node *);
 
 int main(void)
 {
-	struct node * pFirst = NULL;
-	struct node * pLast1 = NULL;
+    struct node * pFirst = NULL;
+    struct node * pLast1 = NULL;
 
-	struct node * pSecond = NULL;
-	struct node * pLast2 = NULL;
+    struct node * pSecond = NULL;
+    struct node * pLast2 = NULL;
 
-	int iChoice_1;
+    int iChoice_1;
     int iChoice_2;
     int iData;
     int iPos;

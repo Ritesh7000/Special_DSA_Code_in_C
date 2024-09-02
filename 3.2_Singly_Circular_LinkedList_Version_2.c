@@ -24,7 +24,6 @@ int Count_Nodes(struct node *, struct node *);
 void Delete_All(struct node **, struct node **);
 void Display(struct node *, struct node *);
 
-
 int main(void)
 {
 	struct node * pFirst = NULL;
@@ -315,6 +314,7 @@ void Insert_First(struct node **ppHead, struct node ** ppTail, int iNo)
 	*ppHead = pNewNode;
 	(*ppTail)->pNext = pNewNode;
 }
+
 void Insert_Last(struct node **ppHead,struct node ** ppTail, int iNo)
 {
 	struct node * pNewNode = NULL;
@@ -616,7 +616,6 @@ void Concat_List_At_Position(struct node **ppHead1, struct node **ppTail1,
 
 		(*ppHead2) = (*ppTail2) = pTemp  = NULL;
 	}
-
 	return;
 }
 
